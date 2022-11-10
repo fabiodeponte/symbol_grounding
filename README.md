@@ -1,8 +1,6 @@
 # Grounding Words in Visual Perceptions: 
-# Experiments in Spoken Language Acquisition
 
-
-
+Experiments in Spoken Language Acquisition
 
 The **dataset** is available at https://www.kaggle.com/datasets/fabiodeponte/symbolgrounding.
 
