@@ -4,4 +4,5 @@ Grounding symbols to Visual and Acoustic Perceptions: Experiments in Spoken Lang
 
 
 The dataset is available at https://www.kaggle.com/datasets/fabiodeponte/symbolgrounding
-The study is explained in the file grounding words in visual perceptions.pdf
+
+The study is explained in the file https://github.com/fabiodeponte/symbol_grounding/blob/main/grounding_words_visual_perceptions.pdf
