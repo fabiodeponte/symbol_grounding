@@ -1,4 +1,5 @@
-# Grounding Words in Visual Perceptions: Experiments in Spoken Language Acquisition
+# Grounding Words in Visual Perceptions: 
+# Experiments in Spoken Language Acquisition
 
 
 
