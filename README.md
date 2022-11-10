@@ -1,5 +1,5 @@
-# Grounding Words in Visual Perceptions
-Grounding symbols to Visual and Acoustic Perceptions: Experiments in Spoken Language Acquisition
+# Grounding Words in Visual Perceptions: Experiments in Spoken Language Acquisition
+
 
 
 
