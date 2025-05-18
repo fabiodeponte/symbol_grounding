@@ -2,7 +2,7 @@
 
 The **dataset** is available at https://www.kaggle.com/datasets/fabiodeponte/symbolgrounding.
 
-The **study** is explained in the file https://github.com/fabiodeponte/symbol_grounding/blob/main/grounding_words_visual_perceptions.pdf.
+The **study** is explained in the file https://github.com/fabiodeponte/symbol_grounding/blob/main/grounding_words_visual_perceptions.pdf (2022).
 
 
 The content of the directories:
