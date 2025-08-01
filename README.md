@@ -8,7 +8,7 @@ In recent years, Natural Language Processing models have shown compelling progre
 The **paper** was published in the Proceedings of the Sixth Workshop on Natural Language for Artificial Intelligence (NL4AI 2022) co‑located with 21th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2022), Udine, Italy, 28 Nov. ‑ 2 Dec., 2022.: https://ceur-ws.org/Vol-3287/paper6.pdf
 
 
-The **complete project**, the text of the final **thesis** for the MSc of Data Science and Artificial Intelligence: https://github.com/fabiodeponte/symbol_grounding/blob/main/grounding_words_visual_perceptions.pdf (2022).
+The **complete project** (the text of my final **thesis** for the MSc of Data Science and Artificial Intelligence for GOldsmiths, UoL): https://github.com/fabiodeponte/symbol_grounding/blob/main/grounding_words_visual_perceptions.pdf (2022).
 
 
 The **dataset**: https://www.kaggle.com/datasets/fabiodeponte/symbolgrounding.
